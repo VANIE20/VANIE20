@@ -8,7 +8,7 @@ Technologies I Work With
 - Mobile: React Native, Expo, Flutter, Dart
 - Backend and Data: Supabase, PostgreSQL, XAMPP, MariaDB
 - Networking: TCP/IP fundamentals, LAN/WLAN configuration, MikroTik RouterOS (Winbox), DHCP, PPPoE, hotspots, and bandwidth management
-- Development Tools: Git, GitHub, VS Code
+- Development Tools: Git, GitHub, VS Code, Docker Desktop
 - Areas of Interest: Software Development, Web and Mobile Applications, Computer Networking, AI Literacy, and AI-Assisted Development
 
 Projects and Practical Experience
